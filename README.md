@@ -1,5 +1,12 @@
 # Discord-Server-Members
 # Info
+## Servers in Database
+* MINECRAFT (Verified, Official)
+* MrBeast Gaming (Verified, Official)
+* Roblox (Partnered, Community-run)
+* Rocket League Garage (Partnered, Community-run)
+* VALORANT (Partnered, Official)
+* /r/Overwatch (Partnered, Community-run)
 ## Overview
 #### This is a database of members of some large Discord servers (100k+). There are both CSV and Sqlite3 databases available. Columns include member ID, username, discrim, and their best rank in the member sidebar (e.g: High ranks are probably admins)
 #### Members in the Database are **NOT** a complete list of every member, but rather most members. Read more below. 
