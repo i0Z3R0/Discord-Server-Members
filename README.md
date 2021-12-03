@@ -1,5 +1,7 @@
 # Discord-Server-Members
 # Info
+### Github Page: https://github.com/i0Z3R0/Discord-Server-Members
+### Replit Page: https://replit.com/@0Z3R0/Discord-Server-Members
 ## Servers in Database
 * MINECRAFT (Verified, Official)
 * MrBeast Gaming (Verified, Official)
