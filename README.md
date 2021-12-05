@@ -4,6 +4,7 @@
 ### Replit Page: https://replit.com/@0Z3R0/Discord-Server-Members
 ## Servers in Database
 * Apex Legends (Partnered, Official)
+* Genshin Impact Official (Verified, Partnered, Official)
 * Jet's Dream World
 * MINECRAFT (Verified, Official)
 * MrBeast Gaming (Verified, Official)
