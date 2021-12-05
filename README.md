@@ -10,7 +10,10 @@
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
 * VALORANT (Partnered, Official)
+* Sound's World (Partnered, Official) *****
 * /r/Overwatch (Partnered, Community-run)
+
+\* Sound's World is very incomplete, less than 20% of users in the server are in the database. 
 ## Overview
 #### This is a database of members of some large Discord servers (100k+). There are both CSV and Sqlite3 databases available. Columns include member ID, username, discrim, and their best rank in the member sidebar (e.g: High ranks are probably admins)
 #### Members in the Database are **NOT** a complete list of every member, but rather most members. Read more below. 
