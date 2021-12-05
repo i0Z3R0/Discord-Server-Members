@@ -3,6 +3,7 @@
 ### Github Page: https://github.com/i0Z3R0/Discord-Server-Members
 ### Replit Page: https://replit.com/@0Z3R0/Discord-Server-Members
 ## Servers in Database
+* Apex Legends (Partnered, Official)
 * Jet's Dream World
 * MINECRAFT (Verified, Official)
 * MrBeast Gaming (Verified, Official)
