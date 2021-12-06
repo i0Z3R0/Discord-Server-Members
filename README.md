@@ -20,6 +20,9 @@
 
 # Database
 
+#### https://github.com/i0Z3R0/Discord-Server-Members/tree/main/Database
+[Github Database Folder](https://github.com/i0Z3R0/Discord-Server-Members/tree/main/Database )
+
 ## Format
 #### All servers in the database are saved in the Sqlite3 DB file format, and converted to CSV for easier extraction. 
 ##### Columns in the database include members' ID, username, discriminator, and best rank. 
