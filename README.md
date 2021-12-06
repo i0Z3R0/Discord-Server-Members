@@ -1,13 +1,13 @@
 # Discord Server Members
 ### A database of members in some large Discord servers
 
-- ### [Info](#info)
-- ### [Overview](#overview)
-- ### [Database](#database)
-  - ### [Format](#format)
-  - ### [Servers in Database](#servers-in-database)
-  - ### [Technical Overview](#technical-overview)
-- ### [More Servers](#more-servers)
+- ### [Info](#info-1)
+- ### [Overview](#overview-1)
+- ### [Database](#database-1)
+  - ### [Format](#format-1)
+  - ### [Servers in Database](#servers-in-database-1)
+  - ### [Technical Overview](#technical-overview-1)
+- ### [More Servers](#more-servers-1)
 
 # Info
 ### Github Page: https://github.com/i0Z3R0/Discord-Server-Members
