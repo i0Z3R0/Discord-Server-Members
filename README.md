@@ -8,11 +8,12 @@
 * Jet's Dream World
 * MINECRAFT (Verified, Official)
 * MrBeast Gaming (Verified, Official)
+* Official Fortnite (Verified, Official)
+* r/Overwatch (Partnered, Community-run)
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
-* VALORANT (Partnered, Official)
 * Sound's World (Partnered, Official) *****
-* /r/Overwatch (Partnered, Community-run)
+* VALORANT (Partnered, Official)
 
 \* Sound's World is very incomplete, less than 20% of users in the server are in the database. 
 ## Overview
