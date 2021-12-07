@@ -40,6 +40,7 @@
 * MrBeast Gaming (Verified, Official)
 * Official Fortnite (Verified, Official)
 * r/Overwatch (Partnered, Community-run)
+* Rainbow 6 (Partnered, Official)
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
 * Sound's World (Partnered, Official) ******
