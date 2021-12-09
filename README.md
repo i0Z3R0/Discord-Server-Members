@@ -40,9 +40,11 @@
 * MrBeast Gaming (Verified, Official)
 * Official Fortnite (Verified, Official)
 * r/Overwatch (Partnered, Community-run)
+* Rainbow 6 (Partnered, Official)
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
 * Sound's World (Partnered, Official) ******
+* Terraria (Verified, Official)
 * VALORANT (Partnered, Official)
 
 ###### * Chill Heaven is very incomplete, despite having over 150k members online only 50k are fetched, indicating less than one third of members can see the main chat channel, indicating possible member botting or a very very serious permissions issue where most members can't see the main channel. I tried this in the rules channel, same result, about 50k members online. Not directly accusing this server of anything, but nothing like this happened to me in other servers...
