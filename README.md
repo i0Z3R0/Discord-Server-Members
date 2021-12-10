@@ -31,6 +31,7 @@
 #### Simple way to extract columns in the CSV files: https://onlinecsvtools.com/extract-csv-columns
 
 ## Servers in Database
+* Animal Crossing (Partnered, Community-run)
 * Anime Soul Discord (Verified, Partnered)
 * Apex Legends (Partnered, Official)
 * Chill Heaven (Community) *****
