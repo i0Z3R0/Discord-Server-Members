@@ -42,6 +42,7 @@
 * MrBeast Gaming (Verified, Official)
 * Official Fortnite (Verified, Official)
 * Pepe Server (Community)
+* Phasmophobia (Verified, Partnered, Official)
 * r/Overwatch (Partnered, Community-run)
 * Rainbow 6 (Partnered, Official)
 * Roblox (Partnered, Community-run)
