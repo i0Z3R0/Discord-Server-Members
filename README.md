@@ -52,6 +52,7 @@
 * Terraria (Verified, Official)
 * TommInnit's Discord (Verified, Partnered)
 * VALORANT (Partnered, Official)
+* Your Bizarre Adventure (Community, Official)
 
 ###### * Chill Heaven is very incomplete, despite having over 150k members online only 50k are fetched, indicating less than one third of members can see the main chat channel, indicating possible member botting or a very very serious permissions issue where most members can't see the main channel. I tried this in the rules channel, same result, about 50k members online. Not directly accusing this server of anything, but nothing like this happened to me in other servers...
 
