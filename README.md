@@ -34,7 +34,7 @@
 * Animal Crossing (Partnered, Community-run)
 * Anime Soul Discord (Verified, Partnered)
 * Apex Legends (Partnered, Official)
-* Chill Heaven (Community) *****
+* Chill Heaven (Community) *
 * Emoji.gg (Community)
 * Genshin Impact Official (Verified, Partnered, Official)
 * Grand Quest Games (Community, Official)
@@ -48,15 +48,16 @@
 * Rainbow 6 (Partnered, Official)
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
-* Sound's World (Partnered, Official) ******
+* Sound's World (Partnered, Official) **
+* Splitgate (Verified, Official)
 * Terraria (Verified, Official)
 * TommInnit's Discord (Verified, Partnered)
 * VALORANT (Partnered, Official)
 * Your Bizarre Adventure (Community, Official)
 
-###### * Chill Heaven is very incomplete, despite having over 150k members online only 50k are fetched, indicating less than one third of members can see the main chat channel, indicating possible member botting or a very very serious permissions issue where most members can't see the main channel. I tried this in the rules channel, same result, about 50k members online. Not directly accusing this server of anything, but nothing like this happened to me in other servers...
+###### * Incomplete
 
-###### ** Sound's World is very incomplete, less than 20% of users in the server are in the database, due to very very little users online. 
+###### ** Incomplete
 
 ## Technical Overview
 #### Members are fetched from the member list sidebar. This means in servers with over 1000 members, offline members are not fetched. Each list of members in servers are fetched every 15 minutes for several days. This captures as many online members as possible. Depending on how active a server's members are, anywhere from 5 - 75% of members can be fetched, according to my estimates. 
