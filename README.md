@@ -30,6 +30,8 @@
 * Best Rank: The highest ranking of the user on the member sidebar. 1 would mean they are the first user on the top of the sidebar. Useful if you would like to remove possible admins or mods, just sort by bestrank and delete the first few hundred rows. (That's still only 0.1% if the total count is 100k)
 #### Simple way to extract columns in the CSV files: https://onlinecsvtools.com/extract-csv-columns
 
+### Update to the Database: All servers are now in seperate folders. Some servers may have multiple db and csv files, older files are archives, members were fetched too long ago for the database to be effective. 
+
 ## Servers in Database
 * Animal Crossing (Partnered, Community-run)
 * Anime Soul Discord (Verified, Partnered)
@@ -48,6 +50,7 @@
 * Rainbow 6 (Partnered, Official)
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
+* Rust (Verified, Official)
 * Sound's World (Partnered, Official) **
 * Splitgate (Verified, Official)
 * Terraria (Verified, Official)
