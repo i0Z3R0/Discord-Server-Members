@@ -41,7 +41,7 @@
 * Genshin Impact Official (Verified, Partnered, Official)
 * Grand Quest Games (Community, Official)
 * Jet's Dream World (Community)
-* MINECRAFT (Verified, Official)
+* MINECRAFT (Verified, Official) **
 * MrBeast Gaming (Verified, Official)
 * Official Fortnite (Verified, Official)
 * Pepe Server (Community)
@@ -51,7 +51,7 @@
 * Roblox (Partnered, Community-run)
 * Rocket League Garage (Partnered, Community-run)
 * Rust (Verified, Official)
-* Sound's World (Partnered, Official) **
+* Sound's World (Partnered, Official) *
 * Splitgate (Verified, Official)
 * Terraria (Verified, Official)
 * TommInnit's Discord (Verified, Partnered)
@@ -59,8 +59,7 @@
 * Your Bizarre Adventure (Community, Official)
 
 ###### * Incomplete
-
-###### ** Incomplete
+##### *# Updated
 
 ## Technical Overview
 #### Members are fetched from the member list sidebar. This means in servers with over 1000 members, offline members are not fetched. Each list of members in servers are fetched every 15 minutes for several days. This captures as many online members as possible. Depending on how active a server's members are, anywhere from 5 - 75% of members can be fetched, according to my estimates. 
