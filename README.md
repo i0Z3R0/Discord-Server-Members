@@ -59,7 +59,7 @@
 * Your Bizarre Adventure (Community, Official)
 
 ###### * Incomplete
-##### *# Updated
+##### ** Updated
 
 ## Technical Overview
 #### Members are fetched from the member list sidebar. This means in servers with over 1000 members, offline members are not fetched. Each list of members in servers are fetched every 15 minutes for several days. This captures as many online members as possible. Depending on how active a server's members are, anywhere from 5 - 75% of members can be fetched, according to my estimates. 
