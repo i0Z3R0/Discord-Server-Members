@@ -35,7 +35,7 @@
 ## Servers in Database
 * Animal Crossing (Partnered, Community-run)
 * Anime Soul Discord (Verified, Partnered)
-* Apex Legends (Partnered, Official)
+* Apex Legends (Partnered, Official) \**
 * Chill Heaven (Community) \*
 * Emoji.gg (Community)
 * Genshin Impact Official (Verified, Partnered, Official)
