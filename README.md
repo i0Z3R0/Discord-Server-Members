@@ -53,7 +53,7 @@
 * Rust (Verified, Official)
 * Sound's World (Partnered, Official) \*
 * Splitgate (Verified, Official)
-* Terraria (Verified, Official)
+* Terraria (Verified, Official) \**
 * TommInnit's Discord (Verified, Partnered)
 * VALORANT (Partnered, Official) \**
 * Your Bizarre Adventure (Community, Official)
