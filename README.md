@@ -38,7 +38,7 @@
 * Apex Legends (Partnered, Official) \**
 * Chill Heaven (Community) \*
 * Emoji.gg (Community)
-* Genshin Impact Official (Verified, Partnered, Official)
+* Genshin Impact Official (Verified, Partnered, Official) \**
 * Grand Quest Games (Community, Official)
 * Jet's Dream World (Community)
 * MINECRAFT (Verified, Official) \**
