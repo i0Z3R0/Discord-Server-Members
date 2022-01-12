@@ -31,7 +31,7 @@
 #### Simple way to extract columns in the CSV files: https://onlinecsvtools.com/extract-csv-columns
 
 ### Update to the Database: All servers are now in seperate folders. Some servers may have multiple db and csv files, older files are archives, members were fetched too long ago for the database to be effective. 
-### Update to the Da
+### Update to the Database on 1/12/2022: Old server's member archives are now deleted, and can only be found by checking the version history for the repo. 
 
 ## Servers in Database
 * Animal Crossing (Partnered, Community-run)
