@@ -38,6 +38,7 @@
 * Anime Soul Discord (Verified, Partnered)
 * Apex Legends (Partnered, Official) \**
 * Chill Heaven (Community) \*
+* Discord Town Hall (Official Discord Server)
 * Emoji.gg (Community)
 * Genshin Impact Official (Verified, Partnered, Official) \**
 * Grand Quest Games (Community, Official)
