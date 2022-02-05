@@ -44,7 +44,7 @@
 * Grand Quest Games (Community, Official)
 * Jet's Dream World (Community)
 * MINECRAFT (Verified, Official) \**
-* MrBeast Gaming (Verified, Official)
+* MrBeast Gaming (Verified, Official) \**
 * Official Fortnite (Verified, Official)
 * Pepe Server (Community)
 * Phasmophobia (Verified, Partnered, Official)
